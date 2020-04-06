@@ -1,0 +1,2 @@
+# parses the table data from allcryptowhitepapers.com 
+\w++:[^"]++|(?<=\d">)[^<]++
